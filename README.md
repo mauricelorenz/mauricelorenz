@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 Current 42 Projects
 - ✅ **[libft](https://github.com/mauricelorenz/libft):** My own extended C standard library  
-- 🧩 **[ft_printf](https://github.com/mauricelorenz/ft_printf):** Basic implementation of the C `printf` function *(awaiting peer evaluation)*  
+- ✅ **[ft_printf](https://github.com/mauricelorenz/ft_printf):** Basic implementation of the C `printf` function    
 - 🚧 **[get_next_line](https://github.com/mauricelorenz/get_next_line):** A C function that reads a file line by line *(work in progress)*  
 
 ---
