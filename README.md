@@ -26,6 +26,11 @@ Welcome to my GitHub profile!
 
 ---
 
+## 🚀 Additional Projects
+- ✅ **[ft_printf_in_one_file](https://github.com/mauricelorenz/ft_printf_in_one_file):** Extra challenge: implementation of `ft_printf` using only 5 functions  
+  
+---
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricelorenz&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricelorenz&layout=compact&theme=default)
