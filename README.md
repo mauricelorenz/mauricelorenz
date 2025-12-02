@@ -28,11 +28,13 @@ Welcome to my GitHub profile!
 **Good to know:**
 At 42, all projects must follow a very strict coding standard called "The Norm". It enforces consistency, modularity and readability through several rules.
 For example:
-- functions must not exceed 25 lines
-- no ternary operators
-- no for loops
-- no switch statements
+
+- functions must not exceed 25 lines  
+- no ternary operators  
+- no for loops  
+- no switch statements  
 - and several other stylistic constraints
+
 Because of this, my 42 project code may look minimalistic or follow a specific structure. It simply adheres to "The Norm".
 
 ---
