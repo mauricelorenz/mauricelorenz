@@ -21,8 +21,19 @@ Welcome to my GitHub profile!
 ## 🚀 Current 42 Projects
 - ✅ **[libft](https://github.com/mauricelorenz/libft):** My own extended C standard library  
 - ✅ **[ft_printf](https://github.com/mauricelorenz/ft_printf):** Basic implementation of the C `printf` function    
-- ✅ **[get_next_line](https://github.com/mauricelorenz/get_next_line):** A C function that reads a file line by line  
-- 🚧 **[born2beroot](https://github.com/mauricelorenz/born2beroot):** Virtual machine running a linux server *(work in progress)*  
+- ✅ **[get_next_line](https://github.com/mauricelorenz/get_next_line):** C function that reads a file line by line  
+- ✅ **[born2beroot](https://github.com/mauricelorenz/born2beroot):** Virtual machine running a linux server  
+- 🚧 **[push_swap](https://github.com/mauricelorenz/push_swap):** C program that shows the shortest sequence of instructions for a sorting algorithm *(work in progress)*  
+
+**Good to know:**
+At 42, all projects must follow a very strict coding standard called "The Norm". It enforces consistency, modularity and readability through several rules.
+For example:
+- functions must not exceed 25 lines
+- no ternary operators
+- no for loops
+- no switch statements
+- and several other stylistic constraints
+Because of this, my 42 project code may look minimalistic or follow a specific structure. It simply adheres to "The Norm".
 
 ---
 
