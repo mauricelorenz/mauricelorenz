@@ -51,4 +51,4 @@ Because of this, my 42 project code may look minimalistic or follow a specific s
 ---
 
 ## 🌐 Find Me Online
-💼 **LinkedIn:** [linkedin.com/in/maurice-lorenz-562b80146](https://linkedin.com/in/maurice-lorenz-562b80146)  
+💼 **LinkedIn:** [linkedin.com/in/maurice-lorenz](https://linkedin.com/in/maurice-lorenz)  
