@@ -23,10 +23,11 @@ Welcome to my GitHub profile!
 - ✅ **[ft_printf](https://github.com/mauricelorenz/ft_printf):** Basic implementation of the C `printf` function    
 - ✅ **[get_next_line](https://github.com/mauricelorenz/get_next_line):** C function that reads a file line by line  
 - ✅ **[born2beroot](https://github.com/mauricelorenz/born2beroot):** Virtual machine running a linux server  
-- 🚧 **[push_swap](https://github.com/mauricelorenz/push_swap):** C program that shows the shortest sequence of instructions for a sorting algorithm *(work in progress)*  
+- ✅ **[push_swap](https://github.com/mauricelorenz/push_swap):** C program that shows the shortest sequence of instructions for a sorting algorithm  
+- 🚧 **[python_module_00](https://github.com/mauricelorenz/python_module_00):** Introductory Python project teaching input/output, control flow, and type casting *(work in progress)*
 
 **Good to know:**
-At 42, all projects must follow a very strict coding standard called "The Norm". It enforces consistency, modularity and readability through several rules.
+At 42, all C projects must follow a very strict coding standard called "The Norm". It enforces consistency, modularity and readability through several rules.
 For example:
 
 - functions must not exceed 25 lines  
@@ -37,9 +38,11 @@ For example:
 
 Because of this, my 42 project code may look minimalistic or follow a specific structure. It simply adheres to "The Norm".
 
+The Python projects use flake8 for linting and are written in compliance with its style guidelines.
+
 ---
 
-## 🚀 Additional Projects
+## ✨ Additional Projects
 - ✅ **[ft_printf_in_one_file](https://github.com/mauricelorenz/ft_printf_in_one_file):** Extra challenge: implementation of `ft_printf` using only 5 functions  
   
 ---
