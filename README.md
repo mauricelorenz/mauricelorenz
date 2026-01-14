@@ -24,7 +24,8 @@ Welcome to my GitHub profile!
 - ✅ **[get_next_line](https://github.com/mauricelorenz/get_next_line):** C function that reads a file line by line  
 - ✅ **[born2beroot](https://github.com/mauricelorenz/born2beroot):** Virtual machine running a linux server  
 - ✅ **[push_swap](https://github.com/mauricelorenz/push_swap):** C program that shows the shortest sequence of instructions for a sorting algorithm  
-- 🚧 **[python_module_00](https://github.com/mauricelorenz/python_module_00):** Introductory Python project teaching input/output, control flow, and type casting *(work in progress)*
+- ✅ **[python_module_00](https://github.com/mauricelorenz/python_module_00):** Python fundamentals - input/output, control flow, type casting  
+- 🚧 **[python_module_01](https://github.com/mauricelorenz/python_module_01):** Python fundamentals - classes and object initialization *(work in progress)*  
 
 **Good to know:**
 At 42, all C projects must follow a very strict coding standard called "The Norm". It enforces consistency, modularity and readability through several rules.
