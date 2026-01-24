@@ -14,18 +14,24 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C, Python, SQL  
-- **Tools:** Git, GitHub, SQL Anywhere, PostgreSQL  
+- **Tools:** Git, GitHub, Linux/Unix, Bash, Makefiles, VirtualBox, PostgreSQL, SQL Anywhere  
 
 ---
 
 ## 🚀 Current 42 Projects
-- ✅ **[libft](https://github.com/mauricelorenz/libft):** My own extended C standard library  
-- ✅ **[ft_printf](https://github.com/mauricelorenz/ft_printf):** Basic implementation of the C `printf` function    
-- ✅ **[get_next_line](https://github.com/mauricelorenz/get_next_line):** C function that reads a file line by line  
-- ✅ **[born2beroot](https://github.com/mauricelorenz/born2beroot):** Virtual machine running a linux server  
-- ✅ **[push_swap](https://github.com/mauricelorenz/push_swap):** C program that shows the shortest sequence of instructions for a sorting algorithm  
-- ✅ **[python_module_00](https://github.com/mauricelorenz/python_module_00):** Python fundamentals - input/output, control flow, type casting  
-- 🚧 **[python_module_01](https://github.com/mauricelorenz/python_module_01):** Python fundamentals - classes and object initialization *(work in progress)*  
+| Project | Description | Score\* |
+|---------|-------------|-------|
+| **[libft](https://github.com/mauricelorenz/libft)** | My own extended C standard library | 125/100 |
+| **[ft_printf](https://github.com/mauricelorenz/ft_printf)** | Basic implementation of the C `printf` function | 100/100 |
+| **[get_next_line](https://github.com/mauricelorenz/get_next_line)** | C function that reads a file line by line | 125/100 |
+| **[born2beroot](https://github.com/mauricelorenz/born2beroot)** | System administration on a Debian VM | 125/100 |
+| **[push_swap](https://github.com/mauricelorenz/push_swap)** | C program that shows the shortest sequence of instructions for a sorting algorithm | 125/100 |
+| **[python_module_00](https://github.com/mauricelorenz/python_module_00)** | Python fundamentals - input/output, control flow, type casting | 100/100 |
+| **[python_module_01](https://github.com/mauricelorenz/python_module_01)** | Python fundamentals - classes and object initialization | *work in progress* |
+
+\* Scores beyond 100 include the voluntary bonus part (not available for all projects)
+<br>
+<br>
 
 **Good to know:**
 At 42, all C projects must follow a very strict coding standard called "The Norm". It enforces consistency, modularity and readability through several rules.
@@ -44,13 +50,9 @@ The Python projects use flake8 for linting and are written in compliance with it
 ---
 
 ## ✨ Additional Projects
-- ✅ **[ft_printf_in_one_file](https://github.com/mauricelorenz/ft_printf_in_one_file):** Extra challenge: implementation of `ft_printf` using only 5 functions  
-  
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricelorenz&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricelorenz&layout=compact&theme=default)
+| Project | Description |
+|---------|-------------|
+| **[ft_printf_in_one_file](https://github.com/mauricelorenz/ft_printf_in_one_file)** | Extra challenge: implementation of `ft_printf` using only 5 functions |
 
 ---
 
