@@ -28,7 +28,8 @@ Welcome to my GitHub profile!
 | **[push_swap](https://github.com/mauricelorenz/push_swap)** | C program that shows the shortest sequence of instructions for a sorting algorithm | 125/100 |
 | **[python_module_00](https://github.com/mauricelorenz/python_module_00)** | Python fundamentals - input/output, control flow, type casting | 100/100 |
 | **[python_module_01](https://github.com/mauricelorenz/python_module_01)** | Python fundamentals - classes and object initialization | *awaiting peer evaluation* |
-| **[python_module_02](https://github.com/mauricelorenz/python_module_02)** | Python fundamentals - exception handling | *work in progress* |
+| **[python_module_02](https://github.com/mauricelorenz/python_module_02)** | Python fundamentals - exception handling | *awaiting peer evaluation* |
+| **[python_module_03](https://github.com/mauricelorenz/python_module_03)** | Python fundamentals - data structures & processing | *work in progress* |
 
 \* Scores beyond 100 include the voluntary bonus part (not available for all projects)
 <br>
