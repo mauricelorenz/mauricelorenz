@@ -32,7 +32,8 @@ Welcome to my GitHub profile!
 | **[python_module_03](https://github.com/mauricelorenz/python_module_03)** | Python fundamentals - data structures & processing | *awaiting peer evaluation* |
 | **[python_module_04](https://github.com/mauricelorenz/python_module_04)** | Python fundamentals - file operations | *awaiting peer evaluation* |
 | **[python_module_05](https://github.com/mauricelorenz/python_module_05)** | Python fundamentals - abstract classes & polymorphism | *work in progress* |
-| **[python_module_06](https://github.com/mauricelorenz/python_module_06)** | Python fundamentals - modules & packages | *work in progress* |
+| **[python_module_06](https://github.com/mauricelorenz/python_module_06)** | Python fundamentals - modules & packages | *awaiting peer evaluation* |
+| **[python_module_07](https://github.com/mauricelorenz/python_module_07)** | Python fundamentals - basic architecture | *work in progress* |
 
 \* Scores beyond 100 include the voluntary bonus part (not available for all projects)
 <br>
