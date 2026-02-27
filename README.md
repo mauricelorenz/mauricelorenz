@@ -35,7 +35,8 @@ Welcome to my GitHub profile!
 | **[python_module_06](https://github.com/mauricelorenz/python_module_06)** | Python fundamentals - modules & packages | *awaiting peer evaluation* |
 | **[python_module_07](https://github.com/mauricelorenz/python_module_07)** | Python fundamentals - basic architecture | *awaiting subject revision* |
 | **[python_module_08](https://github.com/mauricelorenz/python_module_08)** | Python fundamentals - environments & package management | *awaiting peer evaluation* |
-| **[python_module_09](https://github.com/mauricelorenz/python_module_09)** | Python fundamentals - pydantic & data validation | *work in progress* |
+| **[python_module_09](https://github.com/mauricelorenz/python_module_09)** | Python fundamentals - pydantic & data validation | *awaiting peer evaluation* |
+| **[python_module_10](https://github.com/mauricelorenz/python_module_10)** | Python fundamentals - lambdas, closures, decorators | *work in progress* |
 
 \* Scores beyond 100 include the voluntary bonus part (not available for all projects)
 <br>
