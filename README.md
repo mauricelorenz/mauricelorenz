@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 | **[python_module_04](https://github.com/mauricelorenz/python_module_04)** | Python fundamentals - file operations | 100/100 |
 | **[python_module_05](https://github.com/mauricelorenz/python_module_05)** | Python fundamentals - abstract classes & polymorphism | *awaiting peer evaluation* |
 | **[python_module_06](https://github.com/mauricelorenz/python_module_06)** | Python fundamentals - modules & packages | *awaiting peer evaluation* |
-| **[python_module_07](https://github.com/mauricelorenz/python_module_07)** | Python fundamentals - basic architecture | *work in progress* |
+| **[python_module_07](https://github.com/mauricelorenz/python_module_07)** | Python fundamentals - basic architecture | *awaiting peer evaluation* |
 | **[python_module_08](https://github.com/mauricelorenz/python_module_08)** | Python fundamentals - environments & package management | *awaiting peer evaluation* |
 | **[python_module_09](https://github.com/mauricelorenz/python_module_09)** | Python fundamentals - pydantic & data validation | *awaiting peer evaluation* |
 | **[python_module_10](https://github.com/mauricelorenz/python_module_10)** | Python fundamentals - lambdas, closures, decorators | *awaiting peer evaluation* |
