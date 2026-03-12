@@ -37,6 +37,7 @@ Welcome to my GitHub profile!
 | **[python_module_08](https://github.com/mauricelorenz/python_module_08)** | Python fundamentals - environments & package management | *awaiting peer evaluation* |
 | **[python_module_09](https://github.com/mauricelorenz/python_module_09)** | Python fundamentals - pydantic & data validation | *awaiting peer evaluation* |
 | **[python_module_10](https://github.com/mauricelorenz/python_module_10)** | Python fundamentals - lambdas, closures, decorators | *awaiting peer evaluation* |
+| **[a_maze_ing](https://github.com/mauricelorenz/a_maze_ing)** | Python program that generates, visualizes and exports seed-based mazes | *work in progress* |
 
 \* Scores beyond 100 include the voluntary bonus part (not available for all projects)
 <br>
