@@ -31,10 +31,10 @@ Welcome to my GitHub profile!
 | **[python_module_02](https://github.com/mauricelorenz/python_module_02)** | Python fundamentals - exception handling | 100/100 |
 | **[python_module_03](https://github.com/mauricelorenz/python_module_03)** | Python fundamentals - data structures & processing | 100/100 |
 | **[python_module_04](https://github.com/mauricelorenz/python_module_04)** | Python fundamentals - file operations | 100/100 |
-| **[python_module_05](https://github.com/mauricelorenz/python_module_05)** | Python fundamentals - abstract classes & polymorphism | *awaiting peer evaluation* |
-| **[python_module_06](https://github.com/mauricelorenz/python_module_06)** | Python fundamentals - modules & packages | *awaiting peer evaluation* |
-| **[python_module_07](https://github.com/mauricelorenz/python_module_07)** | Python fundamentals - basic architecture | *awaiting peer evaluation* |
-| **[python_module_08](https://github.com/mauricelorenz/python_module_08)** | Python fundamentals - environments & package management | *awaiting peer evaluation* |
+| **[python_module_05](https://github.com/mauricelorenz/python_module_05)** | Python fundamentals - abstract classes & polymorphism | 100/100 |
+| **[python_module_06](https://github.com/mauricelorenz/python_module_06)** | Python fundamentals - modules & packages | 100/100 |
+| **[python_module_07](https://github.com/mauricelorenz/python_module_07)** | Python fundamentals - basic architecture | 100/100 |
+| **[python_module_08](https://github.com/mauricelorenz/python_module_08)** | Python fundamentals - environments & package management | 100/100 |
 | **[python_module_09](https://github.com/mauricelorenz/python_module_09)** | Python fundamentals - pydantic & data validation | *awaiting peer evaluation* |
 | **[python_module_10](https://github.com/mauricelorenz/python_module_10)** | Python fundamentals - lambdas, closures, decorators | *awaiting peer evaluation* |
 | **[a_maze_ing](https://github.com/mauricelorenz/a_maze_ing)** | Python program that generates, visualizes and exports seed-based mazes | *work in progress* |
