@@ -20,12 +20,21 @@ Welcome to my GitHub profile!
 
 ## 🚀 Current 42 Projects
 | Project | Description | Score\* |
-|---------|-------------|-------|
+|---------|-------------|---------|
 | **[libft](https://github.com/mauricelorenz/libft)** | My own extended C standard library | 125/100 |
 | **[ft_printf](https://github.com/mauricelorenz/ft_printf)** | Basic implementation of the C `printf` function | 100/100 |
 | **[get_next_line](https://github.com/mauricelorenz/get_next_line)** | C function that reads a file line by line | 125/100 |
 | **[born2beroot](https://github.com/mauricelorenz/born2beroot)** | System administration on a Debian VM | 125/100 |
 | **[push_swap](https://github.com/mauricelorenz/push_swap)** | C program that shows the shortest sequence of instructions for a sorting algorithm | 125/100 |
+| **python_modules** | Python fundamentals - for details see below | 100/100 |
+| **[a_maze_ing](https://github.com/mauricelorenz/a_maze_ing)** | Python program that generates, visualizes and exports seed-based mazes | 116/100 |
+<br>
+
+<details>
+<summary>python_modules</summary>
+
+| Project | Description | Score\* |
+|---------|-------------|---------|
 | **[python_module_00](https://github.com/mauricelorenz/python_module_00)** | Python fundamentals - input/output, control flow, type casting | 100/100 |
 | **[python_module_01](https://github.com/mauricelorenz/python_module_01)** | Python fundamentals - classes & object initialization | 100/100 |
 | **[python_module_02](https://github.com/mauricelorenz/python_module_02)** | Python fundamentals - exception handling | 100/100 |
@@ -37,8 +46,10 @@ Welcome to my GitHub profile!
 | **[python_module_08](https://github.com/mauricelorenz/python_module_08)** | Python fundamentals - environments & package management | 100/100 |
 | **[python_module_09](https://github.com/mauricelorenz/python_module_09)** | Python fundamentals - pydantic & data validation | 100/100 |
 | **[python_module_10](https://github.com/mauricelorenz/python_module_10)** | Python fundamentals - lambdas, closures, decorators | 100/100 |
-| **[a_maze_ing](https://github.com/mauricelorenz/a_maze_ing)** | Python program that generates, visualizes and exports seed-based mazes | 116/100 |
 
+</details>
+
+<br>
 \* Scores beyond 100 include the voluntary bonus part (not available for all projects)
 <br>
 <br>
