@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 | **[push_swap](https://github.com/mauricelorenz/push_swap)** | C program that shows the shortest sequence of instructions for a sorting algorithm | 125/100 |
 | **python_modules** | Python fundamentals - for details see below | 100/100 |
 | **[a_maze_ing](https://github.com/mauricelorenz/a_maze_ing)** | Python program that generates, visualizes and exports seed-based mazes | 116/100 |
-| **[call_me_maybe](https://github.com/mauricelorenz/call_me_maybe)** | LLM function calling via constrained JSON decoding | *work in progress* |
+| **[call_me_maybe](https://github.com/mauricelorenz/call_me_maybe)** | LLM function calling via constrained JSON decoding | 115/100 |
 <br>
 
 <details>
