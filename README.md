@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 | **[a_maze_ing](https://github.com/mauricelorenz/a_maze_ing)** | Python program that generates, visualizes and exports seed-based mazes | 116/100 |
 | **[call_me_maybe](https://github.com/mauricelorenz/call_me_maybe)** | LLM function calling via constrained JSON decoding | 115/100 |
 | **[fly_in](https://github.com/mauricelorenz/fly_in)** | Python program that schedules and visualizes drone fleet routing | 122/100 |
-| **[codexion](https://github.com/mauricelorenz/codexion)** | C program that schedules and synchronizes concurrent threads using FIFO/EDF | *work in progress* |
+| **[codexion](https://github.com/mauricelorenz/codexion)** | C program that schedules and synchronizes concurrent threads using FIFO/EDF | 100/100 |
 <br>
 
 <details>
