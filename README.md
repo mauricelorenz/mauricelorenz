@@ -31,6 +31,7 @@ Welcome to my GitHub profile!
 | **[call_me_maybe](https://github.com/mauricelorenz/call_me_maybe)** | LLM function calling via constrained JSON decoding | 115/100 |
 | **[fly_in](https://github.com/mauricelorenz/fly_in)** | Python program that schedules and visualizes drone fleet routing | 122/100 |
 | **[codexion](https://github.com/mauricelorenz/codexion)** | C program that schedules and synchronizes concurrent threads using FIFO/EDF | 100/100 |
+| **[netpractice](https://github.com/mauricelorenz/netpractice)** | Subnetting and routing configuration of simulated networks | *work in progress* |
 <br>
 
 <details>
