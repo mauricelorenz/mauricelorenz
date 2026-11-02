@@ -32,6 +32,7 @@ Welcome to my GitHub profile!
 | **[fly_in](https://github.com/mauricelorenz/fly_in)** | Python program that schedules and visualizes drone fleet routing | 122/100 |
 | **[codexion](https://github.com/mauricelorenz/codexion)** | C program that schedules and synchronizes concurrent threads using FIFO/EDF | 100/100 |
 | **[netpractice](https://github.com/mauricelorenz/netpractice)** | Subnetting and routing configuration of simulated networks | 100/100 |
+| **[pac_man](https://github.com/mauricelorenz/pac_man)** | Python recreation of the arcade game Pac-Man | *work in progress* |
 <br>
 
 <details>
