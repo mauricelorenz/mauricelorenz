@@ -33,6 +33,7 @@ Welcome to my GitHub profile!
 | **[codexion](https://github.com/mauricelorenz/codexion)** | C program that schedules and synchronizes concurrent threads using FIFO/EDF | 100/100 |
 | **[netpractice](https://github.com/mauricelorenz/netpractice)** | Subnetting and routing configuration of simulated networks | 100/100 |
 | **[pac_man](https://github.com/mauricelorenz/pac_man)** | Python recreation of the arcade game Pac-Man | *work in progress* |
+| **[rag_against_the_machine](https://github.com/mauricelorenz/rag_against_the_machine)** | Python-based pipeline for retrieval-augmented generation | *work in progress* |
 <br>
 
 <details>
